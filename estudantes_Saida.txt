@@ -1,0 +1,6 @@
+102;Alfredo Dias Bamba;20.00
+101;Lidia Francisco Monteiro;18.00
+100;Gabriel Bulenvo Muanza;17.00
+103;Alves Adorado;14.00
+104;Fernando Diasivi Sebastiao;13.00
+105;Fernando Andre;9.00
